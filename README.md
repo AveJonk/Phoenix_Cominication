@@ -1,4 +1,4 @@
-Nama Kelompok : Phoenix_Cominication
+Nama Kelompok : Phoenix_Communication
 
 Member :
 1. Arya Abdullah Rofi UI/FE
